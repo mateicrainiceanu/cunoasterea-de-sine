@@ -32,7 +32,7 @@ function Nav() {
             </li>
             <li>
               <a className="getstarted" href="/quiz">
-                Formular
+                Take the quiz!
               </a>
             </li>
           </ul>
