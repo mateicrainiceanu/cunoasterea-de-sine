@@ -1,6 +1,7 @@
 import React from "react";
 
 import { TAreaQ } from "./TAreaQ";
+import PrintSection from "./PrintSection";
 
 function Intimidare() {
 	return (
@@ -144,6 +145,8 @@ function Intimidare() {
                 <h4>Hai să facem un exercițiu!</h4>
 
                 <TAreaQ qText="Numește și descrie o altă formă în care ai fost dominat, decât cele menționate mai sus!"></TAreaQ>
+
+				<PrintSection></PrintSection>
                 			
                 </div>
 		</main>

@@ -1,5 +1,6 @@
 import React from "react";
 import { TAreaQ } from "./TAreaQ";
+import PrintSection from "./PrintSection";
 
 function Perspectivism() {
 	return (
@@ -42,6 +43,8 @@ function Perspectivism() {
 						"Când a fost ultima dată când ai avut un confilic cu cineva din cauza faptului că ați avut un punct diferit de vedere?"
 					}
 				/>
+
+				<PrintSection />
 			</div>
 		</main>
 	);

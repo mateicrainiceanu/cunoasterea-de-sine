@@ -1,5 +1,6 @@
 import React from "react";
 import { TAreaQ } from "./../Components/TAreaQ";
+import PrintSection from "./PrintSection";
 
 export default function Stres() {
 	return (
@@ -163,6 +164,8 @@ export default function Stres() {
 						. Am atașat un link, unde poți vorbi cu cineva, dar desigur, trebuie să găsești varianta de psihoterapie
 						care să ți se potrivească.
 					</p>
+
+					<PrintSection></PrintSection>
 				</section>
 			</main>
 		</>

@@ -6,6 +6,7 @@ import { createBrowserRouter } from "react-router-dom";
 import Start from "./pages/Start";
 import Intimidare from "./Components/Intimidare";
 import Perspectivism from "./Components/Perspectivism";
+import Dosar from "./pages/Dosar";
 
 const router = createBrowserRouter([
 	{
@@ -27,10 +28,15 @@ const router = createBrowserRouter([
 	{
 		path: "intimidare",
 		element: <Intimidare />,
-	}, {
-    path: "perspectivism", 
-    element: <Perspectivism/> 
-  }
+	},
+	{
+		path: "perspectivism",
+		element: <Perspectivism />,
+	},
+	{
+		path: "dosar",
+		element: <Dosar />,
+	},
 ]);
 
-  export {router}
+export { router };
