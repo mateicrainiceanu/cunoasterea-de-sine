@@ -687,3 +687,22 @@ textarea{
 .image-bg{
   background-image: url('assets/img/landing.jpg');
 }
+
+.img-jum {
+  width: 50%;
+  margin: 0 25%;
+}
+
+.img-fit {
+  width:100%;
+}
+
+.col-lg-6, .col-lg-4 {
+  padding: 2%
+}
+
+.card-img-top {
+  max-height: 300px;
+  object-fit: cover;
+  aspect-ratio: original;
+}

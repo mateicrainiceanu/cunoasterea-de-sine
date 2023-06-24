@@ -1,4 +1,3 @@
-import React from 'react';
 import Landing from './HomeComponents/Landing';
 import ShortDesc from './HomeComponents/ShortDesc';
 import More from './HomeComponents/More';

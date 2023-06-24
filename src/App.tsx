@@ -1,19 +1,9 @@
 import React from "react";
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
+import { RouterProvider } from "react-router-dom";
 import { Nav, Footer } from "./NavFooter";
-import Home from "./pages/Home";
-import Quiz from "./pages/Quiz";
+import {router} from "./router"
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <Home />,
-  },
-  {
-    path: "quiz",
-    element: <Quiz/>,
-  }
-]);
+
 
 function App() {
   return (

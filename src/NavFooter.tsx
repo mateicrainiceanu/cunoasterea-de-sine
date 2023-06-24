@@ -8,7 +8,7 @@ function Nav() {
           <a href="/">Cunoașterea de sine</a>
         </h1>
 
-        <nav id="navbar" className="navbar">
+        <nav id="navbar" className="navbar ms-auto">
           <ul>
             <li>
               <a className="nav-link active" href="/#acasa">
@@ -16,18 +16,8 @@ function Nav() {
               </a>
             </li>
             <li>
-              <a className="nav-link" href="/#scurta-descriere">
-                Pe scurt
-              </a>
-            </li>
-            <li>
-              <a className="nav-link" href="/#ce-putem-face">
-                Ce putem face?
-              </a>
-            </li>
-            <li>
-              <a className="nav-link" href="/#mai-multe">
-                Mai mult
+              <a className="nav-link" href="/incepe">
+                Începe!
               </a>
             </li>
             <li>
