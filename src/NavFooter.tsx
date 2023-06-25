@@ -94,6 +94,8 @@ function Footer() {
 						Proiect realizat de către Crăiniceanu Matei - elev la liceul Teoretic "Nikolaus Lenau", Timișoara
 						<br />
 						Coordonator: prof. Angela Avrămuț
+						<br />
+						<b>Concursul Național Istorie și Societate în Dimensiune Virtuală</b>
 					</p>
 					<div className="credits">© Designed by Crăiniceanu Matei</div>
 				</div>
