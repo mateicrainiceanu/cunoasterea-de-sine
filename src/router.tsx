@@ -7,6 +7,7 @@ import Start from "./pages/Start";
 import Intimidare from "./Components/Intimidare";
 import Perspectivism from "./Components/Perspectivism";
 import Dosar from "./pages/Dosar";
+import Mecanisme from "./Components/Mecanisme";
 
 const router = createBrowserRouter([
 	{
@@ -36,6 +37,10 @@ const router = createBrowserRouter([
 	{
 		path: "dosar",
 		element: <Dosar />,
+	},
+	{
+		path: "/mecanisme",
+		element: <Mecanisme />,
 	},
 ]);
 

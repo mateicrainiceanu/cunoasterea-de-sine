@@ -29,6 +29,7 @@ function Dosar() {
 						<li>Stresul</li>
 						<li>Intimidarea și formele ei</li>
 						<li>Perspectivismul</li>
+						<li></li>
 					</ul>
 
 					<h3>Dosarul cunoașterii amănunțit</h3>

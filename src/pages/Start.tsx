@@ -3,6 +3,7 @@ import React from "react";
 import { StresHeading } from "./../Components/Stres";
 import { IntimidareHeading } from "../Components/Intimidare";
 import { PerspectivismHeader } from "../Components/Perspectivism";
+import { MecanismeHead } from "../Components/Mecanisme";
 
 function Start() {
 	return (
@@ -30,6 +31,11 @@ function Start() {
 				<hr />
 
 				<PerspectivismHeader />
+
+				<hr />
+
+				<MecanismeHead />
+				
 			</section>
 		</main>
 	);

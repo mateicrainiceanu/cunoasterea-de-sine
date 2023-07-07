@@ -1,86 +1,69 @@
 import React from "react";
+import { useState } from "react";
+import { Navbar, Nav } from "react-bootstrap";
 
-function Nav() {
+function NavBar() {
+	const [collapsed, setCollapsed] = useState(true);
+
+	function toggleNavbar() {
+		setCollapsed(!collapsed);
+	}
+
 	return (
-		<nav className="navbar navbar-expand-lg bg-body-tertiary ">
-			<div className="container-fluid white-bg">
-				<a className="navbar-brand" href="/">
+		<>
+			<Navbar expand="lg" className="bg-body-tertiary" style={{padding: "2%"}}>
+				<Navbar.Brand href="/">
 					<h1 className="logo">Cunoașterea de sine</h1>
-				</a>
-				<div className="ms-auto">
-					<button
-						className="navbar-toggler"
-						type="button"
-						data-bs-toggle="collapse"
-						data-bs-target="#navbarSupportedContent"
-						aria-controls="navbarSupportedContent"
-						aria-expanded="false"
-						aria-label="Toggle navigation">
-						<span className="navbar-toggler-icon"></span>
-					</button>
-					<div className="collapse navbar-collapse" id="navbarSupportedContent">
-						<ul className="navbar-nav me-auto mb-2 mb-lg-0">
-							<li className="nav-item">
-								<a className="nav-link" href="/#acasa">
-									Acasă
-								</a>
-							</li>
-							<li className="nav-item">
-								<a className="nav-link" href="/incepe">
-									Începe!
-								</a>
-							</li>
-							<li className="nav-item">
-								<a className="getstarted" href="/quiz">
-									Take the quiz!
-								</a>
-							</li>
-						</ul>
+				</Navbar.Brand>
+				<Navbar.Toggle aria-controls="basic-navbar-nav" onClick={toggleNavbar} />
+				<Navbar.Collapse id="basic-navbar-nav" className={collapsed ? "collapse" : ""}>
+					<Nav className="ms-auto bg-body-tertiary nav-colappsed">
+						<Nav.Link href="/">Acasă</Nav.Link>
+						<Nav.Link href="/incepe">Începe</Nav.Link>
+						<Nav.Link href="/dosar">Dosar</Nav.Link>
+						<Nav.Link href="/quiz">Quiz</Nav.Link>
+					</Nav>
+				</Navbar.Collapse>
+			</Navbar>
+			{/* <nav className="navbar navbar-expand-lg bg-body-tertiary ">
+				<div className="container-fluid bg-body-tertiary">
+					<a className="navbar-brand" href="/">
+						<h1 className="logo">Cunoașterea de sine</h1>
+					</a>
+					<div className="ms-auto">
+						<button
+							className="navbar-toggler"
+							type="button"
+							data-bs-toggle="collapse"
+							data-bs-target="#navbarSupportedContent"
+							aria-controls="navbarSupportedContent"
+							aria-expanded="false"
+							aria-label="Toggle navigation">
+							<span className="navbar-toggler-icon"></span>
+						</button>
+						<div className="collapse navbar-collapse" id="navbarSupportedContent">
+							<ul className="navbar-nav me-auto mb-2 mb-lg-0">
+								<li className="nav-item">
+									<a className="nav-link" href="/#acasa">
+										Acasă
+									</a>
+								</li>
+								<li className="nav-item">
+									<a className="nav-link" href="/incepe">
+										Începe!
+									</a>
+								</li>
+								<li className="nav-item">
+									<a className="getstarted" href="/quiz">
+										Take the quiz!
+									</a>
+								</li>
+							</ul>
+						</div>
 					</div>
 				</div>
-			</div>
-			{/* <header id="header" className="d-flex align-items-center">
-	  <div className="container d-flex align-items-center">
-		  <h1 className="logo">
-			  <a href="/">Cunoașterea de sine</a>
-		  </h1>
-
-		  <nav id="navbar" className="navbar ms-auto">
-			  <button
-				  className="navbar-toggler"
-				  type="button"
-				  data-bs-toggle="collapse"
-				  data-bs-target="#navbarSupportedContent"
-				  aria-controls="navbarSupportedContent"
-				  aria-expanded="false"
-				  aria-label="Toggle navigation">
-				  <span className="navbar-toggler-icon">
-					  <i className="bi bi-list mobile-nav-toggle"></i>
-				  </span>
-			  </button>
-			  <div className="collapse navbar-collapse" id="navbarSupportedContent">
-				  <ul className="navbar-nav">
-					  <li className="nav-item">
-						  <a className="nav-link" href="/#acasa">
-							  Acasă
-						  </a>
-					  </li>
-					  <li className="nav-item">
-						  <a className="nav-link" href="/incepe">
-							  Începe!
-						  </a>
-					  </li>
-					  <li className="nav-item">
-						  <a className="getstarted" href="/quiz">
-							  Take the quiz!
-						  </a>
-					  </li>
-				  </ul>
-			  </div>
-		  </nav>
-	  </div>
-  </header> */}
-		</nav>
+			</nav> */}
+		</>
 	);
 }
 
@@ -104,4 +87,4 @@ function Footer() {
 	);
 }
 
-export { Nav, Footer };
+export { NavBar as Nav, Footer };

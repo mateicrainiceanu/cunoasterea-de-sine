@@ -3,7 +3,7 @@ import React from 'react'
 function Examples() {
   return (
     <section id="exemple" className="exemple">
-        <div className="container">
+        <div className="container ">
           <div className="section-title">
             <h2>Câteva exemple</h2>
             <p>
