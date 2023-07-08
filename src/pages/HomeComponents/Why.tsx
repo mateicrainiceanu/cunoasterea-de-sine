@@ -44,7 +44,7 @@ function Why() {
 						<div className="icon-box iconbox-pink">
 							<h4>Înțelegem mai bine</h4>
 							<p>
-								Dacă ne vom pune această întrebare, legată de orice subiect, vom întelege mai bine
+								Dacă ne vom pune această întrebare, legată de orice subiect, vom înțelegemai bine
 								acel subiect.
 							</p>
 						</div>

@@ -1,6 +1,7 @@
 import Home from "./pages/Home";
 import Quiz from "./pages/Quiz";
 import Stres from "./Components/Stres";
+import { Swot } from "./pages/QuizComponents/Swot";
 
 import { createBrowserRouter } from "react-router-dom";
 import Start from "./pages/Start";
@@ -42,6 +43,10 @@ const router = createBrowserRouter([
 		path: "/mecanisme",
 		element: <Mecanisme />,
 	},
+	{
+		path: "/swot", 
+		element: <Swot />
+	}
 ]);
 
 export { router };

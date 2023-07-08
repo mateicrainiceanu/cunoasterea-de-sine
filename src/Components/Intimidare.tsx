@@ -163,7 +163,7 @@ function IntimidareHeading() {
 					</a>
 
 					<p>
-						Te-ai intrebat vreodată de unde vine autoritatea oamenilor și cum îți poți crește propria autoritate? Deși
+						Te-ai întrebat vreodată de unde vine autoritatea oamenilor și cum îți poți crește propria autoritate? Deși
 						nu este cel mai etic mod, intimidarea este cel mai eficient mod să-ți crești autoritatea.
 					</p>
 				</div>

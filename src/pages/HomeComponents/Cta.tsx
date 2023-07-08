@@ -12,7 +12,7 @@ function Cta() {
             câteva minute, iar apoi să le notezi. Prin acest chestionar, noi
             nu colectăm răspunsurile tale. La final vei putea sau
             salva foaia cu răspunsurile, ca amintire sau ca lecție,
-            ca să poți să revi asupra a ce-ți dorești de la tine în viitor.
+            ca să poți să revii asupra a ce-ți dorești de la tine în viitor.
           </p>
         </div>
         <div className="col-lg-3 cta-btn-container text-center">

@@ -8,7 +8,7 @@ function More() {
             <h2>Să detaliem un pic...</h2>
             <p>
               Ce am prezentat mai sus, sunt doar aspecte simplificate despre cum
-              funționează cunoașterea de sine și cum ne influențează.
+              funcționează cunoașterea de sine și cum ne influențează.
             </p>
           </div>
 
@@ -19,8 +19,8 @@ function More() {
             <div className="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
               <h3>Cum ne cunoaștem pe noi?</h3>
               <p className="fst-italic">
-                Cunoasterea de sine inseamna constientizarea modului in care
-                gandesti, simti si te comporti in fiecare zi.
+                Cunoașterea de sine înseamnă conștientizarea modului in care
+                gândești, simți și te comporți in fiecare zi.
               </p>
               <ul>
                 <li>

@@ -345,14 +345,13 @@ textarea{
   min-height: 80vh;
 }
 
-.carousel{
+.carousel, .airesponse{
   background-color: rgb(0, 115, 255);
   border-radius: 10px;
   padding: 2% 10%;
   color: white;
   margin-bottom: 1%;
 }
-
 
 @media (max-width: 991px) {
   .nav-colappsed {

@@ -22,6 +22,7 @@ function NavBar() {
 						<Nav.Link href="/incepe">Începe</Nav.Link>
 						<Nav.Link href="/dosar">Dosar</Nav.Link>
 						<Nav.Link href="/quiz">Quiz</Nav.Link>
+						<Nav.Link href="/swot">SwotAI</Nav.Link>
 					</Nav>
 				</Navbar.Collapse>
 			</Navbar>
