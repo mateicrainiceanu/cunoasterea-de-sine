@@ -23,7 +23,7 @@ export default function Stres() {
 						<a href="https://www.youtube.com/watch?v=P9BaJWnIRNU&pp=ygUoZXhlcmNpdGlpIGRlIHJlc3BpcmF0aWUgcGVudHJ1IGFueGlldGF0ZQ%3D%3D">
 							aici
 						</a>{" "}
-						poți vizona un videoclip pentru a te liniști atunci când ești stresat(ă)
+						poți viziona un videoclip pentru a te liniști atunci când ești stresat(ă)
 					</p>
 
 					<h3>Este stresul benefic sau malefic? </h3>
@@ -96,7 +96,7 @@ export default function Stres() {
 										<li>Anxietate și agitație</li>
 										<li>Iritabilitate sau chiar furie</li>
 										<li>Senzația de a fi copleșit</li>
-										<li>Singuratatea, izolarea de ceilalți</li>
+										<li>Singurătatea, izolarea de ceilalți</li>
 									</p>
 								</div>
 							</div>
@@ -109,7 +109,7 @@ export default function Stres() {
 										<li>Energie scăzută, oboseală</li>
 										<li>Dureri în diverse zone ale corpului</li>
 										<li>Încordarea mușchilor</li>
-										<li>Insomni</li>
+										<li>Insomnie</li>
 										<li>Transpirația excesivă</li>
 										<li>Amețeală ori senzații de greață</li>
 									</p>

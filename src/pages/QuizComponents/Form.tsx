@@ -25,6 +25,8 @@ export function Form() {
 				<hr />
 				<p>Care sunt cele mai mari obstacole cu care te-ai confruntat în viață și cum le-ai depășit?</p>
 				<textarea></textarea>
+				<p>Unde te vezi peste 10 ani?</p>
+				<textarea></textarea>
 			</form>
 
 			<button

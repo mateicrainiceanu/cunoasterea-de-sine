@@ -17,7 +17,7 @@ function CarouselMecanisme() {
 		{
 			title: "Identificarea ",
 			description:
-				"Identificarea este situația în care eul unei persoane preia în mod inconstient anumite trăsături de la alta persoana. Un exemplu este lesinul cu caracter isteric al fiului cu tatăl decedat. O forma de identificare este identificarea cu agresorul, un mijloc de apărare utilizat în relațiile cu obiectele lumii exterioare cărora subiectul nu poate sa le facă fata. Un exemplu este cel al victimei care se transforma in agresor.",
+				"Identificarea este situația în care eul unei persoane preia în mod inconștient anumite trăsături de la alta persoana. Un exemplu este lesinul cu caracter isteric al fiului cu tatăl decedat. O forma de identificare este identificarea cu agresorul, un mijloc de apărare utilizat în relațiile cu obiectele lumii exterioare cărora subiectul nu poate sa le facă fata. Un exemplu este cel al victimei care se transforma in agresor.",
 		},
 		{
 			title: "Proiecția ",
@@ -32,10 +32,10 @@ transportarea unui element al spațiului său psihic intern într-o lume care î
 		{
 			title: "Refularea",
 			description:
-				"Refularea este cel mai vechi, mai important și mai cunoscut mecanism defensiv in psihanaliza, acest concept nascandu-se odata cu cel de subconștient. Prin procesul de refulare sunt păstrate în subconștient toate acele reprezentări pulsionale interzise de supraeu. Refularea este un mecanism de baza în nevroza, dar și un proces normal în viața cotidiană.",
+				"Refularea este cel mai vechi, mai important și mai cunoscut mecanism defensiv in psihanaliza, acest concept născându-se odată cu cel de subconștient. Prin procesul de refulare sunt păstrate în subconștient toate acele reprezentări pulsionale interzise de supraeu. Refularea este un mecanism de baza în nevroza, dar și un proces normal în viața cotidiană.",
 		},
 		{
-			title: "Sublimarea ",
+			title: "Sublimarea",
 			description:
 				"Sublimarea se referă la transformarea impulsurilor instinctuale în activități acceptate de societate, cum ar fi utilizarea energiei instinctului sexual în scopuri artistice, sau a impulsurilor agresive într-un sport.",
 		},
@@ -47,7 +47,7 @@ transportarea unui element al spațiului său psihic intern într-o lume care î
 		{
 			title: "Regresiunea ",
 			description:
-				"este procesul de întoarcere la un stadiu de dezvoltare psihică anterior, fie ca este vorba despre gandire, sentiment sau comportament. Un exemplu este divorțul intentat de soț, pentru a se căsători cu o iubită din tinerețe.",
+				"este procesul de întoarcere la un stadiu de dezvoltare psihică anterior, fie ca este vorba despre gândire, sentiment sau comportament. Un exemplu este divorțul intentat de soț, pentru a se căsători cu o iubită din tinerețe.",
 		},
 		{
 			title: "",

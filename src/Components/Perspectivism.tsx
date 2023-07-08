@@ -60,7 +60,7 @@ function PerspectivismHeader() {
 					</a>
 
 					<p>
-						În general oamenii au diferite puncte de vedera asupra diferitor subiecte. Nu întotdeauna un om are dreptate
+						În general oamenii au diferite puncte de vederea asupra diferitor subiecte. Nu întotdeauna un om are dreptate
 						și ceilalți nu, totul ține de perspectivă. De asemenea trebuie să te privești și pe tine din mai multe
 						perspective. Și astfel să afli calitățile și defectele tale.
 					</p>

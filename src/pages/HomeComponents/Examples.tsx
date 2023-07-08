@@ -37,7 +37,7 @@ function Examples() {
               <p>
                 Azi m-am uitat în oglindă și am văzut că sunt prea grasă. În
                 acest fel, nimănui nu o să îi placă de mine. Voi începe să țin
-                regim. Azi, între școală și meditații nu o să mai mânânc nimic.
+                regim. Azi, între școală și meditații nu o să mai mănânc nimic.
               </p>
             </div>
 
@@ -47,7 +47,7 @@ function Examples() {
               <p>
                 Da, să ne menținem în formă nu este un lucru rău, ba chiar
                 recomandat. Dar trebuie să avem grijă să nu facem mai mult rău
-                decât bine. În cazul acesta, nu este bine să nu mânânci când ai
+                decât bine. În cazul acesta, nu este bine să nu mănânci când ai
                 o zi solicitantă.
               </p>
             </div>

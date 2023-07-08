@@ -14,15 +14,15 @@ function Dosar() {
 				<div className="col-lg-6">
 					<h2>Dosarul despre tine</h2>
 					<p>
-						Noi îți propunem să facu un dosar unde să pui toate informațiile pe care le-ai dobândit de pe acest site,
-						alături de notițele și răspunsuirle tale din câmpurile speciale de pe paginile dedicate cunoașterii de sine.{" "}
+						Noi îți propunem să faci un dosar unde să pui toate informațiile pe care le-ai dobândit de pe acest site,
+						alături de notițele și răspunsurile tale din câmpurile speciale de pe paginile dedicate cunoașterii de sine.{" "}
 					</p>
 					<p>
-						Astfel la finalul dosarului vei avea o privire de ansamblu asupra lucuruilor care te definesc și îți
-						influențează algerile de zi cu zi.{" "}
+						Astfel la finalul dosarului vei avea o privire de ansamblu asupra lucrurilor care te definesc și îți
+						influențează alegerile de zi cu zi.{" "}
 					</p>
 					<p>
-						Îți recomandăm să âncepi din secțiunea <a href="/incepe"> Începe</a> a site-ului nostru, unde vei găsi
+						Îți recomandăm să începi din secțiunea <a href="/incepe"> Începe</a> a site-ului nostru, unde vei găsi
 						informații despre factori care te influențează cum ar fi:
 					</p>
 					<ul>
@@ -46,7 +46,7 @@ function Dosar() {
 							Din nou <a href="/quiz">quizul</a> pentru a vedea ce s-a schimbat
 						</li>
 					</ul>
-                    <p>O să dureze puțin să completezi tot dosarul, mai ales în forma lui amânunțită, dar cel mai bine este să nu te grăbești și să îți aloci timp pentru acest dosar pentru a deveni cea mai bună versiune a ta. </p>
+                    <p>O să dureze puțin să completezi tot dosarul, mai ales în forma lui amănunțită, dar cel mai bine este să nu te grăbești și să îți aloci timp pentru acest dosar pentru a deveni cea mai bună versiune a ta. </p>
 				</div>
 			</div>
 		</div>
