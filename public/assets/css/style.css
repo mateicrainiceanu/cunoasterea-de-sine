@@ -365,4 +365,23 @@ textarea{
     }
 }
 
+.quote{
+  background-color: #cfcdcd;
+  text-align: center;
+  padding: 2%;
+}
+
+.qoutecontainer{
+  position:relative;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.quote .text {
+  font-size: x-large;
+  font-style: italic;
+}
+
 

@@ -87,6 +87,7 @@ export function Swot() {
 				}}
 			/>
 			<SwotForm analysis={analysis} handleChange={handleChange} />
+
 			<div style={{ textAlign: "center" }}>
 				<button className="btn-get-started" onClick={alertUser}>
 					Trimite către AI
@@ -95,11 +96,13 @@ export function Swot() {
 
 			<br />
 
-			<h4>Aici {result.length === 0 ? "va apărea" : "a apărut"} rezultatul tău!</h4>
+			<div className="airesponse">
+				<h4>Aici {result.length === 0 ? "va apărea" : "a apărut"} rezultatul tău!</h4>
 
-			{result.map((line, i) => (
-				<p key={i}>{line}</p>
-			))}
+				{result.map((line, i) => (
+					<p key={i}>{line}</p>
+				))}
+			</div>
 
 			<PrintSection />
 		</div>

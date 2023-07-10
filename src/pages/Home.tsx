@@ -6,6 +6,7 @@ import Examples from './HomeComponents/Examples';
 import Cta from './HomeComponents/Cta';
 import Why from "./HomeComponents/Why";
 import Effects from './HomeComponents/Effects';
+import Quote from './HomeComponents/Quote';
 
 function Home() {
   return (
@@ -18,6 +19,7 @@ function Home() {
             <ShortDesc />
             <More />
             <WToDo />
+            <Quote />
             <Examples />
             <Cta />
             <Why/>

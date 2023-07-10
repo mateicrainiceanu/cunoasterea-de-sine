@@ -22,9 +22,11 @@ export function SwotForm({
 				Dacă vrei să te cunoști mai bine, încearcă să completezi sincer acest formular. <br />
 				Este un formular, care apoi va fi formatat și trimis către un AI, care îți va da în cel mai scurt timp
 				interpretarea acestei analize și niște sfaturi. <br />
-				În mod normal vei primi un răspuns după maxim 10 secunde. <br />
+				În funcție de conexiunea ta la internet vei primi un răspuns după câteva secunde. <br />
 				Trebuie să ții cont că răsunsul este dat de inteligența artificială, și nu este verificat sau cercetat din punct
 				de vedere științific.{" "}
+
+				Datele dvs. sunt în siguranță, conexiunule securizate, iar la OpenAI se trimit doar răspunsurile dvs. 
 			</p>
 
 			<div className="row">
