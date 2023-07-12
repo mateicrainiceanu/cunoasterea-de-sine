@@ -29,7 +29,7 @@ function Dosar() {
 						<li>Stresul</li>
 						<li>Intimidarea și formele ei</li>
 						<li>Perspectivismul</li>
-						<li></li>
+						<li>Mecanisme de autoaparare</li>
 					</ul>
 
 					<h3>Dosarul cunoașterii amănunțit</h3>
@@ -46,7 +46,10 @@ function Dosar() {
 							Din nou <a href="/quiz">quizul</a> pentru a vedea ce s-a schimbat
 						</li>
 					</ul>
-                    <p>O să dureze puțin să completezi tot dosarul, mai ales în forma lui amănunțită, dar cel mai bine este să nu te grăbești și să îți aloci timp pentru acest dosar pentru a deveni cea mai bună versiune a ta. </p>
+					<p>
+						O să dureze puțin să completezi tot dosarul, mai ales în forma lui amănunțită, dar cel mai bine este să nu
+						te grăbești și să îți aloci timp pentru acest dosar pentru a deveni cea mai bună versiune a ta.{" "}
+					</p>
 				</div>
 			</div>
 		</div>

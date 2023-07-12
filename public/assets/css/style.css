@@ -384,4 +384,11 @@ textarea{
   font-style: italic;
 }
 
-
+.scroll-up-btn{
+  position: fixed;
+  bottom: 2%;
+  right: 2%;
+  font-size: 5rem;
+  color: magenta;
+  opacity: 50%;
+}
